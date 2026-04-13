@@ -10,8 +10,8 @@ Merci de vouloir contribuer ! Ce document explique comment participer au projet.
 
 ```bash
 # Fork le repo sur GitHub, puis :
-git clone https://github.com/<TON_PSEUDO>/MyStore.git
-cd MyStore
+git clone https://github.com/zogoabel7/MyStore.git
+cd MyStore/mystore
 ```
 
 ### 2. Créer une branche
