@@ -392,4 +392,4 @@ L'état `DOWNLOADING` est défini dans l'enum mais n'est jamais assigné nulle p
 4. Créer un script wrapper dans `/usr/local/bin/mystore` pour le lancement
 5. Optionnellement installer un schéma GSettings pour l'ID `com.mystore.app`
 
-C'est un projet tout à fait réalisable — dis-moi si tu veux que je le crée.
+C'est un projet tout à fait réalisable.
