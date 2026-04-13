@@ -1,0 +1,5484 @@
+{
+  "search:__installed__": [
+    {
+      "name": "7zip",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "7zip",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 7zip",
+        "remove": "pkexec apt remove -y 7zip"
+      }
+    },
+    {
+      "name": "aapt",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aapt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aapt",
+        "remove": "pkexec apt remove -y aapt"
+      }
+    },
+    {
+      "name": "accountsservice",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "accountsservice",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y accountsservice",
+        "remove": "pkexec apt remove -y accountsservice"
+      }
+    },
+    {
+      "name": "acl",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "acl",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y acl",
+        "remove": "pkexec apt remove -y acl"
+      }
+    },
+    {
+      "name": "adduser",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "adduser",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adduser",
+        "remove": "pkexec apt remove -y adduser"
+      }
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "adwaita-icon-theme",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adwaita-icon-theme",
+        "remove": "pkexec apt remove -y adwaita-icon-theme"
+      }
+    },
+    {
+      "name": "afdko-bin",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "afdko-bin",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y afdko-bin",
+        "remove": "pkexec apt remove -y afdko-bin"
+      }
+    },
+    {
+      "name": "aidl",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aidl",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aidl",
+        "remove": "pkexec apt remove -y aidl"
+      }
+    },
+    {
+      "name": "aircrack-ng",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aircrack-ng",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "security"
+      ],
+      "icon": "aircrack",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aircrack-ng",
+        "remove": "pkexec apt remove -y aircrack-ng"
+      }
+    },
+    {
+      "name": "aisleriot",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aisleriot",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aisleriot",
+        "remove": "pkexec apt remove -y aisleriot"
+      }
+    },
+    {
+      "name": "alsa-topology-conf",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "alsa-topology-conf",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alsa-topology-conf",
+        "remove": "pkexec apt remove -y alsa-topology-conf"
+      }
+    },
+    {
+      "name": "alsa-ucm-conf",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "alsa-ucm-conf",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alsa-ucm-conf",
+        "remove": "pkexec apt remove -y alsa-ucm-conf"
+      }
+    },
+    {
+      "name": "amass",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "amass",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amass",
+        "remove": "pkexec apt remove -y amass"
+      }
+    },
+    {
+      "name": "amd64-microcode",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "amd64-microcode",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "dev"
+      ],
+      "icon": "code",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amd64-microcode",
+        "remove": "pkexec apt remove -y amd64-microcode"
+      }
+    },
+    {
+      "name": "android-libaapt:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libaapt:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libaapt:amd64",
+        "remove": "pkexec apt remove -y android-libaapt:amd64"
+      }
+    },
+    {
+      "name": "android-libandroidfw:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libandroidfw:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libandroidfw:amd64",
+        "remove": "pkexec apt remove -y android-libandroidfw:amd64"
+      }
+    },
+    {
+      "name": "android-libbacktrace:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libbacktrace:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libbacktrace:amd64",
+        "remove": "pkexec apt remove -y android-libbacktrace:amd64"
+      }
+    },
+    {
+      "name": "android-libbase:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libbase:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libbase:amd64",
+        "remove": "pkexec apt remove -y android-libbase:amd64"
+      }
+    },
+    {
+      "name": "android-libcutils:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libcutils:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libcutils:amd64",
+        "remove": "pkexec apt remove -y android-libcutils:amd64"
+      }
+    },
+    {
+      "name": "android-liblog:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-liblog:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-liblog:amd64",
+        "remove": "pkexec apt remove -y android-liblog:amd64"
+      }
+    },
+    {
+      "name": "android-libutils:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libutils:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libutils:amd64",
+        "remove": "pkexec apt remove -y android-libutils:amd64"
+      }
+    },
+    {
+      "name": "android-libziparchive:amd64",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-libziparchive:amd64",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libziparchive:amd64",
+        "remove": "pkexec apt remove -y android-libziparchive:amd64"
+      }
+    },
+    {
+      "name": "android-sdk-build-tools",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-sdk-build-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-sdk-build-tools",
+        "remove": "pkexec apt remove -y android-sdk-build-tools"
+      }
+    },
+    {
+      "name": "android-sdk-build-tools-common",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "android-sdk-build-tools-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-sdk-build-tools-common",
+        "remove": "pkexec apt remove -y android-sdk-build-tools-common"
+      }
+    },
+    {
+      "name": "ant",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "ant",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y ant",
+        "remove": "pkexec apt remove -y ant"
+      }
+    },
+    {
+      "name": "ant-optional",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "ant-optional",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y ant-optional",
+        "remove": "pkexec apt remove -y ant-optional"
+      }
+    },
+    {
+      "name": "apache2",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apache2",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apache2",
+        "remove": "pkexec apt remove -y apache2"
+      }
+    },
+    {
+      "name": "apache2-bin",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apache2-bin",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apache2-bin",
+        "remove": "pkexec apt remove -y apache2-bin"
+      }
+    },
+    {
+      "name": "apache2-data",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apache2-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apache2-data",
+        "remove": "pkexec apt remove -y apache2-data"
+      }
+    },
+    {
+      "name": "apache2-utils",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apache2-utils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apache2-utils",
+        "remove": "pkexec apt remove -y apache2-utils"
+      }
+    },
+    {
+      "name": "apksigner",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apksigner",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apksigner",
+        "remove": "pkexec apt remove -y apksigner"
+      }
+    },
+    {
+      "name": "apparmor",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apparmor",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apparmor",
+        "remove": "pkexec apt remove -y apparmor"
+      }
+    },
+    {
+      "name": "appstream",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "appstream",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y appstream",
+        "remove": "pkexec apt remove -y appstream"
+      }
+    },
+    {
+      "name": "apt",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt",
+        "remove": "pkexec apt remove -y apt"
+      }
+    },
+    {
+      "name": "apt-config-icons",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-config-icons",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-config-icons",
+        "remove": "pkexec apt remove -y apt-config-icons"
+      }
+    },
+    {
+      "name": "apt-config-icons-hidpi",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-config-icons-hidpi",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-config-icons-hidpi",
+        "remove": "pkexec apt remove -y apt-config-icons-hidpi"
+      }
+    },
+    {
+      "name": "apt-config-icons-large",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-config-icons-large",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-config-icons-large",
+        "remove": "pkexec apt remove -y apt-config-icons-large"
+      }
+    },
+    {
+      "name": "apt-config-icons-large-hidpi",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-config-icons-large-hidpi",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-config-icons-large-hidpi",
+        "remove": "pkexec apt remove -y apt-config-icons-large-hidpi"
+      }
+    },
+    {
+      "name": "apt-file",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-file",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-file",
+        "remove": "pkexec apt remove -y apt-file"
+      }
+    },
+    {
+      "name": "apt-transport-https",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-transport-https",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-transport-https",
+        "remove": "pkexec apt remove -y apt-transport-https"
+      }
+    },
+    {
+      "name": "apt-utils",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "apt-utils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apt-utils",
+        "remove": "pkexec apt remove -y apt-utils"
+      }
+    },
+    {
+      "name": "aria2",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aria2",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aria2",
+        "remove": "pkexec apt remove -y aria2"
+      }
+    },
+    {
+      "name": "arj",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "arj",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y arj",
+        "remove": "pkexec apt remove -y arj"
+      }
+    },
+    {
+      "name": "arp-scan",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "arp-scan",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y arp-scan",
+        "remove": "pkexec apt remove -y arp-scan"
+      }
+    },
+    {
+      "name": "arping",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "arping",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y arping",
+        "remove": "pkexec apt remove -y arping"
+      }
+    },
+    {
+      "name": "aspell",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aspell",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aspell",
+        "remove": "pkexec apt remove -y aspell"
+      }
+    },
+    {
+      "name": "aspell-en",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aspell-en",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aspell-en",
+        "remove": "pkexec apt remove -y aspell-en"
+      }
+    },
+    {
+      "name": "aspnetcore-runtime-6.0",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aspnetcore-runtime-6.0",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aspnetcore-runtime-6.0",
+        "remove": "pkexec apt remove -y aspnetcore-runtime-6.0"
+      }
+    },
+    {
+      "name": "aspnetcore-targeting-pack-6.0",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "aspnetcore-targeting-pack-6.0",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aspnetcore-targeting-pack-6.0",
+        "remove": "pkexec apt remove -y aspnetcore-targeting-pack-6.0"
+      }
+    },
+    {
+      "name": "at-spi2-common",
+      "summary": "Paquet APT installé",
+      "description": "Paquet APT installé",
+      "app_id": "at-spi2-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": true,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y at-spi2-common",
+        "remove": "pkexec apt remove -y at-spi2-common"
+      }
+    }
+  ],
+  "search:__popular__": [
+    {
+      "name": "0ad",
+      "summary": "Real-time strategy game of ancient warfare",
+      "description": "Real-time strategy game of ancient warfare",
+      "app_id": "0ad",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad",
+        "remove": "pkexec apt remove -y 0ad"
+      }
+    },
+    {
+      "name": "0ad-data",
+      "summary": "Real-time strategy game of ancient warfare (data files)",
+      "description": "Real-time strategy game of ancient warfare (data files)",
+      "app_id": "0ad-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad-data",
+        "remove": "pkexec apt remove -y 0ad-data"
+      }
+    },
+    {
+      "name": "0ad-data-common",
+      "summary": "Real-time strategy game of ancient warfare (common data files)",
+      "description": "Real-time strategy game of ancient warfare (common data files)",
+      "app_id": "0ad-data-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad-data-common",
+        "remove": "pkexec apt remove -y 0ad-data-common"
+      }
+    },
+    {
+      "name": "0install",
+      "summary": "cross-distribution packaging system",
+      "description": "cross-distribution packaging system",
+      "app_id": "0install",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0install",
+        "remove": "pkexec apt remove -y 0install"
+      }
+    },
+    {
+      "name": "0install-core",
+      "summary": "cross-distribution packaging system (non-GUI parts)",
+      "description": "cross-distribution packaging system (non-GUI parts)",
+      "app_id": "0install-core",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0install-core",
+        "remove": "pkexec apt remove -y 0install-core"
+      }
+    },
+    {
+      "name": "0trace",
+      "summary": "traceroute tool that can run within an existing TCP connection",
+      "description": "traceroute tool that can run within an existing TCP connection",
+      "app_id": "0trace",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0trace",
+        "remove": "pkexec apt remove -y 0trace"
+      }
+    },
+    {
+      "name": "0trace-dbgsym",
+      "summary": "debug symbols for 0trace",
+      "description": "debug symbols for 0trace",
+      "app_id": "0trace-dbgsym",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0trace-dbgsym",
+        "remove": "pkexec apt remove -y 0trace-dbgsym"
+      }
+    },
+    {
+      "name": "0xffff",
+      "summary": "Open Free Fiasco Firmware Flasher",
+      "description": "Open Free Fiasco Firmware Flasher",
+      "app_id": "0xffff",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0xffff",
+        "remove": "pkexec apt remove -y 0xffff"
+      }
+    },
+    {
+      "name": "2048",
+      "summary": "Slide and add puzzle game for text mode",
+      "description": "Slide and add puzzle game for text mode",
+      "app_id": "2048",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2048",
+        "remove": "pkexec apt remove -y 2048"
+      }
+    },
+    {
+      "name": "2048-qt",
+      "summary": "mathematics based puzzle game",
+      "description": "mathematics based puzzle game",
+      "app_id": "2048-qt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2048-qt",
+        "remove": "pkexec apt remove -y 2048-qt"
+      }
+    },
+    {
+      "name": "2ping",
+      "summary": "Ping utility to determine directional packet loss",
+      "description": "Ping utility to determine directional packet loss",
+      "app_id": "2ping",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2ping",
+        "remove": "pkexec apt remove -y 2ping"
+      }
+    },
+    {
+      "name": "2vcard",
+      "summary": "convert an addressbook to VCARD file format",
+      "description": "convert an addressbook to VCARD file format",
+      "app_id": "2vcard",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2vcard",
+        "remove": "pkexec apt remove -y 2vcard"
+      }
+    },
+    {
+      "name": "3270-common",
+      "summary": "Common files for IBM 3270 emulators and pr3287",
+      "description": "Common files for IBM 3270 emulators and pr3287",
+      "app_id": "3270-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3270-common",
+        "remove": "pkexec apt remove -y 3270-common"
+      }
+    },
+    {
+      "name": "3cpio",
+      "summary": "Manage initrd cpio archives",
+      "description": "Manage initrd cpio archives",
+      "app_id": "3cpio",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3cpio",
+        "remove": "pkexec apt remove -y 3cpio"
+      }
+    },
+    {
+      "name": "3d-ascii-viewer",
+      "summary": "Viewer of 3D models in ASCII",
+      "description": "Viewer of 3D models in ASCII",
+      "app_id": "3d-ascii-viewer",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3d-ascii-viewer",
+        "remove": "pkexec apt remove -y 3d-ascii-viewer"
+      }
+    },
+    {
+      "name": "3dchess",
+      "summary": "Play chess across 3 boards!",
+      "description": "Play chess across 3 boards!",
+      "app_id": "3dchess",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3dchess",
+        "remove": "pkexec apt remove -y 3dchess"
+      }
+    },
+    {
+      "name": "3depict",
+      "summary": "visualisation and analysis for single valued point data",
+      "description": "visualisation and analysis for single valued point data",
+      "app_id": "3depict",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3depict",
+        "remove": "pkexec apt remove -y 3depict"
+      }
+    },
+    {
+      "name": "4g8",
+      "summary": "Packet Capture and Interception for Switched Networks",
+      "description": "Packet Capture and Interception for Switched Networks",
+      "app_id": "4g8",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4g8",
+        "remove": "pkexec apt remove -y 4g8"
+      }
+    },
+    {
+      "name": "4pane",
+      "summary": "four-pane detailed-list file manager",
+      "description": "four-pane detailed-list file manager",
+      "app_id": "4pane",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4pane",
+        "remove": "pkexec apt remove -y 4pane"
+      }
+    },
+    {
+      "name": "4ti2",
+      "summary": "mathematical tool suite for problems on linear spaces -- tools",
+      "description": "mathematical tool suite for problems on linear spaces -- tools",
+      "app_id": "4ti2",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4ti2",
+        "remove": "pkexec apt remove -y 4ti2"
+      }
+    }
+  ],
+  "search:graphics": [
+    {
+      "name": "0ad",
+      "summary": "Real-time strategy game of ancient warfare",
+      "description": "Real-time strategy game of ancient warfare",
+      "app_id": "0ad",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad",
+        "remove": "pkexec apt remove -y 0ad"
+      }
+    },
+    {
+      "name": "0ad-data",
+      "summary": "Real-time strategy game of ancient warfare (data files)",
+      "description": "Real-time strategy game of ancient warfare (data files)",
+      "app_id": "0ad-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad-data",
+        "remove": "pkexec apt remove -y 0ad-data"
+      }
+    },
+    {
+      "name": "0ad-data-common",
+      "summary": "Real-time strategy game of ancient warfare (common data files)",
+      "description": "Real-time strategy game of ancient warfare (common data files)",
+      "app_id": "0ad-data-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad-data-common",
+        "remove": "pkexec apt remove -y 0ad-data-common"
+      }
+    },
+    {
+      "name": "airstrike-common",
+      "summary": "2d dogfight game - data files",
+      "description": "2d dogfight game - data files",
+      "app_id": "airstrike-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y airstrike-common",
+        "remove": "pkexec apt remove -y airstrike-common"
+      }
+    },
+    {
+      "name": "alembic-graphics",
+      "summary": "Alembic is an open computer graphics interchange framework",
+      "description": "Alembic is an open computer graphics interchange framework",
+      "app_id": "alembic-graphics",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alembic-graphics",
+        "remove": "pkexec apt remove -y alembic-graphics"
+      }
+    },
+    {
+      "name": "amoebax-data",
+      "summary": "Data files for amoebax",
+      "description": "Data files for amoebax",
+      "app_id": "amoebax-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amoebax-data",
+        "remove": "pkexec apt remove -y amoebax-data"
+      }
+    },
+    {
+      "name": "antigravitaattori",
+      "summary": "Multiplayer flying saucer racing game",
+      "description": "Multiplayer flying saucer racing game",
+      "app_id": "antigravitaattori",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y antigravitaattori",
+        "remove": "pkexec apt remove -y antigravitaattori"
+      }
+    },
+    {
+      "name": "apng2gif",
+      "summary": "tool for converting APNG images to animated GIF format",
+      "description": "tool for converting APNG images to animated GIF format",
+      "app_id": "apng2gif",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apng2gif",
+        "remove": "pkexec apt remove -y apng2gif"
+      }
+    },
+    {
+      "name": "apngasm",
+      "summary": "assemble APNG animation from PNG/TGA image sequence",
+      "description": "assemble APNG animation from PNG/TGA image sequence",
+      "app_id": "apngasm",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apngasm",
+        "remove": "pkexec apt remove -y apngasm"
+      }
+    },
+    {
+      "name": "apngdis",
+      "summary": "deconstruct APNG file into a sequence of PNG frames",
+      "description": "deconstruct APNG file into a sequence of PNG frames",
+      "app_id": "apngdis",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apngdis",
+        "remove": "pkexec apt remove -y apngdis"
+      }
+    },
+    {
+      "name": "apngopt",
+      "summary": "optimize APNG animated images",
+      "description": "optimize APNG animated images",
+      "app_id": "apngopt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y apngopt",
+        "remove": "pkexec apt remove -y apngopt"
+      }
+    },
+    {
+      "name": "ardentryst",
+      "summary": "Action/RPG sidescoller, focused on story and character development",
+      "description": "Action/RPG sidescoller, focused on story and character development",
+      "app_id": "ardentryst",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y ardentryst",
+        "remove": "pkexec apt remove -y ardentryst"
+      }
+    },
+    {
+      "name": "armagetronad-dedicated",
+      "summary": "dedicated game server for Armagetron Advanced",
+      "description": "dedicated game server for Armagetron Advanced",
+      "app_id": "armagetronad-dedicated",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y armagetronad-dedicated",
+        "remove": "pkexec apt remove -y armagetronad-dedicated"
+      }
+    },
+    {
+      "name": "aspic",
+      "summary": "Line art generator",
+      "description": "Line art generator",
+      "app_id": "aspic",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aspic",
+        "remove": "pkexec apt remove -y aspic"
+      }
+    },
+    {
+      "name": "astcenc",
+      "summary": "ASTC image compression and decompression tool",
+      "description": "ASTC image compression and decompression tool",
+      "app_id": "astcenc",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y astcenc",
+        "remove": "pkexec apt remove -y astcenc"
+      }
+    },
+    {
+      "name": "asymptote",
+      "summary": "script-based vector graphics language inspired by MetaPost",
+      "description": "script-based vector graphics language inspired by MetaPost",
+      "app_id": "asymptote",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y asymptote",
+        "remove": "pkexec apt remove -y asymptote"
+      }
+    },
+    {
+      "name": "asymptote-doc",
+      "summary": "documentation and examples for asymptote",
+      "description": "documentation and examples for asymptote",
+      "app_id": "asymptote-doc",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y asymptote-doc",
+        "remove": "pkexec apt remove -y asymptote-doc"
+      }
+    },
+    {
+      "name": "asymptote-x11",
+      "summary": "script-based vector graphics language inspired by MetaPost - the GUI part",
+      "description": "script-based vector graphics language inspired by MetaPost - the GUI part",
+      "app_id": "asymptote-x11",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y asymptote-x11",
+        "remove": "pkexec apt remove -y asymptote-x11"
+      }
+    },
+    {
+      "name": "atomix-data",
+      "summary": "puzzle game for building molecules out of separate atoms -- data",
+      "description": "puzzle game for building molecules out of separate atoms -- data",
+      "app_id": "atomix-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y atomix-data",
+        "remove": "pkexec apt remove -y atomix-data"
+      }
+    },
+    {
+      "name": "avogadro",
+      "summary": "Molecular Graphics and Modelling System",
+      "description": "Molecular Graphics and Modelling System",
+      "app_id": "avogadro",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y avogadro",
+        "remove": "pkexec apt remove -y avogadro"
+      }
+    },
+    {
+      "name": "avogadro-utils",
+      "summary": "Molecular Graphics and Modelling System (library)",
+      "description": "Molecular Graphics and Modelling System (library)",
+      "app_id": "avogadro-utils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y avogadro-utils",
+        "remove": "pkexec apt remove -y avogadro-utils"
+      }
+    },
+    {
+      "name": "axiom-graphics",
+      "summary": "General purpose computer algebra system: graphics subsystem",
+      "description": "General purpose computer algebra system: graphics subsystem",
+      "app_id": "axiom-graphics",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y axiom-graphics",
+        "remove": "pkexec apt remove -y axiom-graphics"
+      }
+    },
+    {
+      "name": "axiom-graphics-data",
+      "summary": "General purpose computer algebra system: graphics subsystem",
+      "description": "General purpose computer algebra system: graphics subsystem",
+      "app_id": "axiom-graphics-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y axiom-graphics-data",
+        "remove": "pkexec apt remove -y axiom-graphics-data"
+      }
+    },
+    {
+      "name": "basic256",
+      "summary": "educational BASIC programming environment for children",
+      "description": "educational BASIC programming environment for children",
+      "app_id": "basic256",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y basic256",
+        "remove": "pkexec apt remove -y basic256"
+      }
+    },
+    {
+      "name": "bb",
+      "summary": "ASCII-art demo based on AAlib",
+      "description": "ASCII-art demo based on AAlib",
+      "app_id": "bb",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y bb",
+        "remove": "pkexec apt remove -y bb"
+      }
+    },
+    {
+      "name": "birdfont",
+      "summary": "font editor that lets you create outline vector graphics and export fonts",
+      "description": "font editor that lets you create outline vector graphics and export fonts",
+      "app_id": "birdfont",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y birdfont",
+        "remove": "pkexec apt remove -y birdfont"
+      }
+    },
+    {
+      "name": "birdfont-common",
+      "summary": "arch-independent data for birdfont package",
+      "description": "arch-independent data for birdfont package",
+      "app_id": "birdfont-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y birdfont-common",
+        "remove": "pkexec apt remove -y birdfont-common"
+      }
+    },
+    {
+      "name": "blobwars-data",
+      "summary": "platform shooting game (data)",
+      "description": "platform shooting game (data)",
+      "app_id": "blobwars-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y blobwars-data",
+        "remove": "pkexec apt remove -y blobwars-data"
+      }
+    },
+    {
+      "name": "blt",
+      "summary": "graphics extension library for Tcl/Tk - run-time",
+      "description": "graphics extension library for Tcl/Tk - run-time",
+      "app_id": "blt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y blt",
+        "remove": "pkexec apt remove -y blt"
+      }
+    },
+    {
+      "name": "blt-demo",
+      "summary": "graphics extension library for Tcl/Tk - demos and examples",
+      "description": "graphics extension library for Tcl/Tk - demos and examples",
+      "app_id": "blt-demo",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y blt-demo",
+        "remove": "pkexec apt remove -y blt-demo"
+      }
+    },
+    {
+      "name": "blt-dev",
+      "summary": "graphics extension library for Tcl/Tk - development files",
+      "description": "graphics extension library for Tcl/Tk - development files",
+      "app_id": "blt-dev",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y blt-dev",
+        "remove": "pkexec apt remove -y blt-dev"
+      }
+    },
+    {
+      "name": "bogl-bterm",
+      "summary": "Ben's Own Graphics Library - graphical terminal",
+      "description": "Ben's Own Graphics Library - graphical terminal",
+      "app_id": "bogl-bterm",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y bogl-bterm",
+        "remove": "pkexec apt remove -y bogl-bterm"
+      }
+    },
+    {
+      "name": "bogl-utils",
+      "summary": "Ben's Own Graphics Library - font tools",
+      "description": "Ben's Own Graphics Library - font tools",
+      "app_id": "bogl-utils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y bogl-utils",
+        "remove": "pkexec apt remove -y bogl-utils"
+      }
+    },
+    {
+      "name": "bomberclone-data",
+      "summary": "Data files for bomberclone game",
+      "description": "Data files for bomberclone game",
+      "app_id": "bomberclone-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y bomberclone-data",
+        "remove": "pkexec apt remove -y bomberclone-data"
+      }
+    },
+    {
+      "name": "broot",
+      "summary": "tree view, file manager, configurable launcher",
+      "description": "tree view, file manager, configurable launcher",
+      "app_id": "broot",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y broot",
+        "remove": "pkexec apt remove -y broot"
+      }
+    },
+    {
+      "name": "brutalchess",
+      "summary": "3D chess game with reflection of the chessmen",
+      "description": "3D chess game with reflection of the chessmen",
+      "app_id": "brutalchess",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y brutalchess",
+        "remove": "pkexec apt remove -y brutalchess"
+      }
+    },
+    {
+      "name": "btanks",
+      "summary": "fast 2D tank arcade game with multiplayer and split-screen modes",
+      "description": "fast 2D tank arcade game with multiplayer and split-screen modes",
+      "app_id": "btanks",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y btanks",
+        "remove": "pkexec apt remove -y btanks"
+      }
+    },
+    {
+      "name": "btanks-data",
+      "summary": "fast 2D tank arcade game -- data",
+      "description": "fast 2D tank arcade game -- data",
+      "app_id": "btanks-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y btanks-data",
+        "remove": "pkexec apt remove -y btanks-data"
+      }
+    },
+    {
+      "name": "bumblebee",
+      "summary": "NVIDIA Optimus support for Linux",
+      "description": "NVIDIA Optimus support for Linux",
+      "app_id": "bumblebee",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y bumblebee",
+        "remove": "pkexec apt remove -y bumblebee"
+      }
+    },
+    {
+      "name": "bzflag-server",
+      "summary": "3D first person tank battle game -- server",
+      "description": "3D first person tank battle game -- server",
+      "app_id": "bzflag-server",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y bzflag-server",
+        "remove": "pkexec apt remove -y bzflag-server"
+      }
+    },
+    {
+      "name": "caca-utils",
+      "summary": "text mode graphics utilities",
+      "description": "text mode graphics utilities",
+      "app_id": "caca-utils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y caca-utils",
+        "remove": "pkexec apt remove -y caca-utils"
+      }
+    },
+    {
+      "name": "cairo-5c",
+      "summary": "nickle bindings for the cairo graphics library",
+      "description": "nickle bindings for the cairo graphics library",
+      "app_id": "cairo-5c",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y cairo-5c",
+        "remove": "pkexec apt remove -y cairo-5c"
+      }
+    },
+    {
+      "name": "cairo-dock",
+      "summary": "Metapackage for cairo-dock",
+      "description": "Metapackage for cairo-dock",
+      "app_id": "cairo-dock",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y cairo-dock",
+        "remove": "pkexec apt remove -y cairo-dock"
+      }
+    },
+    {
+      "name": "cairo-dock-core",
+      "summary": "Light eye-candy fully themable animated dock for Linux desktop",
+      "description": "Light eye-candy fully themable animated dock for Linux desktop",
+      "app_id": "cairo-dock-core",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y cairo-dock-core",
+        "remove": "pkexec apt remove -y cairo-dock-core"
+      }
+    },
+    {
+      "name": "cairo-dock-dev",
+      "summary": "Cairo-dock development file",
+      "description": "Cairo-dock development file",
+      "app_id": "cairo-dock-dev",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y cairo-dock-dev",
+        "remove": "pkexec apt remove -y cairo-dock-dev"
+      }
+    },
+    {
+      "name": "calligra",
+      "summary": "extensive productivity and creative suite",
+      "description": "extensive productivity and creative suite",
+      "app_id": "calligra",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y calligra",
+        "remove": "pkexec apt remove -y calligra"
+      }
+    },
+    {
+      "name": "calligrastage",
+      "summary": "presentation program for the Calligra Suite",
+      "description": "presentation program for the Calligra Suite",
+      "app_id": "calligrastage",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y calligrastage",
+        "remove": "pkexec apt remove -y calligrastage"
+      }
+    },
+    {
+      "name": "camv-rnd-export-vector",
+      "summary": "Export formats: vector graphics",
+      "description": "Export formats: vector graphics",
+      "app_id": "camv-rnd-export-vector",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y camv-rnd-export-vector",
+        "remove": "pkexec apt remove -y camv-rnd-export-vector"
+      }
+    },
+    {
+      "name": "cde",
+      "summary": "package everything required to execute a Linux command on another computer",
+      "description": "package everything required to execute a Linux command on another computer",
+      "app_id": "cde",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y cde",
+        "remove": "pkexec apt remove -y cde"
+      }
+    },
+    {
+      "name": "cdr2odg",
+      "summary": "Corel Draw graphics to OpenDocument converter",
+      "description": "Corel Draw graphics to OpenDocument converter",
+      "app_id": "cdr2odg",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y cdr2odg",
+        "remove": "pkexec apt remove -y cdr2odg"
+      }
+    },
+    {
+      "name": "Preview all kinds of files",
+      "summary": "org.previewqt.PreviewQt",
+      "description": "org.previewqt.PreviewQt",
+      "app_id": "PreviewQt",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub PreviewQt",
+        "remove": "flatpak uninstall -y PreviewQt"
+      }
+    },
+    {
+      "name": "View and manage images and videos",
+      "summary": "org.photoqt.PhotoQt",
+      "description": "org.photoqt.PhotoQt",
+      "app_id": "PhotoQt",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub PhotoQt",
+        "remove": "flatpak uninstall -y PhotoQt"
+      }
+    },
+    {
+      "name": "Molecular visualization and raytracing",
+      "summary": "org.pymol.PyMOL",
+      "description": "org.pymol.PyMOL",
+      "app_id": "Python Molecular Graphics",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Python Molecular Graphics",
+        "remove": "flatpak uninstall -y Python Molecular Graphics"
+      }
+    },
+    {
+      "name": "A great 2D soccer (sometimes called football) game",
+      "summary": "net.sourceforge.TuxFootball",
+      "description": "net.sourceforge.TuxFootball",
+      "app_id": "Tux Football",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Tux Football",
+        "remove": "flatpak uninstall -y Tux Football"
+      }
+    },
+    {
+      "name": "Universal node-based 2D editor",
+      "summary": "net.pixieditor.PixiEditor",
+      "description": "net.pixieditor.PixiEditor",
+      "app_id": "PixiEditor",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub PixiEditor",
+        "remove": "flatpak uninstall -y PixiEditor"
+      }
+    },
+    {
+      "name": "Cross-platform engine for the Ultima VII games",
+      "summary": "info.exult.exult",
+      "description": "info.exult.exult",
+      "app_id": "Exult Ultima VII Engine",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Exult Ultima VII Engine",
+        "remove": "flatpak uninstall -y Exult Ultima VII Engine"
+      }
+    }
+  ],
+  "search:tools": [
+    {
+      "name": "0ad-data-common",
+      "summary": "Real-time strategy game of ancient warfare (common data files)",
+      "description": "Real-time strategy game of ancient warfare (common data files)",
+      "app_id": "0ad-data-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "games"
+      ],
+      "icon": "0ad",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0ad-data-common",
+        "remove": "pkexec apt remove -y 0ad-data-common"
+      }
+    },
+    {
+      "name": "4pane",
+      "summary": "four-pane detailed-list file manager",
+      "description": "four-pane detailed-list file manager",
+      "app_id": "4pane",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4pane",
+        "remove": "pkexec apt remove -y 4pane"
+      }
+    },
+    {
+      "name": "4ti2",
+      "summary": "mathematical tool suite for problems on linear spaces -- tools",
+      "description": "mathematical tool suite for problems on linear spaces -- tools",
+      "app_id": "4ti2",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4ti2",
+        "remove": "pkexec apt remove -y 4ti2"
+      }
+    },
+    {
+      "name": "9base",
+      "summary": "Plan 9 userland tools",
+      "description": "Plan 9 userland tools",
+      "app_id": "9base",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 9base",
+        "remove": "pkexec apt remove -y 9base"
+      }
+    },
+    {
+      "name": "9mount",
+      "summary": "Plan 9 filesystem (v9fs) user mount utilities",
+      "description": "Plan 9 filesystem (v9fs) user mount utilities",
+      "app_id": "9mount",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 9mount",
+        "remove": "pkexec apt remove -y 9mount"
+      }
+    },
+    {
+      "name": "a2boot",
+      "summary": "AppleTalk Network Suite (Apple II NetBoot)",
+      "description": "AppleTalk Network Suite (Apple II NetBoot)",
+      "app_id": "a2boot",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a2boot",
+        "remove": "pkexec apt remove -y a2boot"
+      }
+    },
+    {
+      "name": "abigail-tools",
+      "summary": "ABI Generic Analysis and Instrumentation Library (tools)",
+      "description": "ABI Generic Analysis and Instrumentation Library (tools)",
+      "app_id": "abigail-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abigail-tools",
+        "remove": "pkexec apt remove -y abigail-tools"
+      }
+    },
+    {
+      "name": "abiword",
+      "summary": "efficient, featureful word processor with collaboration",
+      "description": "efficient, featureful word processor with collaboration",
+      "app_id": "abiword",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "office"
+      ],
+      "icon": "abiword",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abiword",
+        "remove": "pkexec apt remove -y abiword"
+      }
+    },
+    {
+      "name": "abpoa",
+      "summary": "adaptive banded Partial Order Alignment",
+      "description": "adaptive banded Partial Order Alignment",
+      "app_id": "abpoa",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abpoa",
+        "remove": "pkexec apt remove -y abpoa"
+      }
+    },
+    {
+      "name": "accelerated-container-image",
+      "summary": "container image acceleration tools for containerd",
+      "description": "container image acceleration tools for containerd",
+      "app_id": "accelerated-container-image",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y accelerated-container-image",
+        "remove": "pkexec apt remove -y accelerated-container-image"
+      }
+    },
+    {
+      "name": "account-utils-passwd",
+      "summary": "user management and authentication - utilities",
+      "description": "user management and authentication - utilities",
+      "app_id": "account-utils-passwd",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y account-utils-passwd",
+        "remove": "pkexec apt remove -y account-utils-passwd"
+      }
+    },
+    {
+      "name": "acpi-override-initramfs",
+      "summary": "initramfs-tools hook to override ACPI tables",
+      "description": "initramfs-tools hook to override ACPI tables",
+      "app_id": "acpi-override-initramfs",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y acpi-override-initramfs",
+        "remove": "pkexec apt remove -y acpi-override-initramfs"
+      }
+    },
+    {
+      "name": "acpi-support",
+      "summary": "scripts for handling many ACPI events",
+      "description": "scripts for handling many ACPI events",
+      "app_id": "acpi-support",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y acpi-support",
+        "remove": "pkexec apt remove -y acpi-support"
+      }
+    },
+    {
+      "name": "acpica-tools",
+      "summary": "ACPICA tools for the development and debug of ACPI tables",
+      "description": "ACPICA tools for the development and debug of ACPI tables",
+      "app_id": "acpica-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y acpica-tools",
+        "remove": "pkexec apt remove -y acpica-tools"
+      }
+    },
+    {
+      "name": "acr",
+      "summary": "autoconf like tool",
+      "description": "autoconf like tool",
+      "app_id": "acr",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y acr",
+        "remove": "pkexec apt remove -y acr"
+      }
+    },
+    {
+      "name": "adb",
+      "summary": "Android Debug Bridge",
+      "description": "Android Debug Bridge",
+      "app_id": "adb",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adb",
+        "remove": "pkexec apt remove -y adb"
+      }
+    },
+    {
+      "name": "adbd",
+      "summary": "Android Debug Bridge daemon",
+      "description": "Android Debug Bridge daemon",
+      "app_id": "adbd",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adbd",
+        "remove": "pkexec apt remove -y adbd"
+      }
+    },
+    {
+      "name": "adduser",
+      "summary": "add and remove users and groups",
+      "description": "add and remove users and groups",
+      "app_id": "adduser",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adduser",
+        "remove": "pkexec apt remove -y adduser"
+      }
+    },
+    {
+      "name": "adios2-mpi-bin",
+      "summary": "ADIOS2 Adaptable IO system for simulations - binary tools (MPI)",
+      "description": "ADIOS2 Adaptable IO system for simulations - binary tools (MPI)",
+      "app_id": "adios2-mpi-bin",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adios2-mpi-bin",
+        "remove": "pkexec apt remove -y adios2-mpi-bin"
+      }
+    },
+    {
+      "name": "adios2-serial-bin",
+      "summary": "ADIOS2 Adaptable IO system for simulations - binary tools (serial)",
+      "description": "ADIOS2 Adaptable IO system for simulations - binary tools (serial)",
+      "app_id": "adios2-serial-bin",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adios2-serial-bin",
+        "remove": "pkexec apt remove -y adios2-serial-bin"
+      }
+    },
+    {
+      "name": "adns-tools",
+      "summary": "Asynchronous-capable DNS client utilities",
+      "description": "Asynchronous-capable DNS client utilities",
+      "app_id": "adns-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adns-tools",
+        "remove": "pkexec apt remove -y adns-tools"
+      }
+    },
+    {
+      "name": "adr-tools",
+      "summary": "tools for working with a log of Architecture Decision Records",
+      "description": "tools for working with a log of Architecture Decision Records",
+      "app_id": "adr-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y adr-tools",
+        "remove": "pkexec apt remove -y adr-tools"
+      }
+    },
+    {
+      "name": "aegisub",
+      "summary": "advanced subtitle editor",
+      "description": "advanced subtitle editor",
+      "app_id": "aegisub",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aegisub",
+        "remove": "pkexec apt remove -y aegisub"
+      }
+    },
+    {
+      "name": "aegisub-l10n",
+      "summary": "aegisub language packages",
+      "description": "aegisub language packages",
+      "app_id": "aegisub-l10n",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aegisub-l10n",
+        "remove": "pkexec apt remove -y aegisub-l10n"
+      }
+    },
+    {
+      "name": "aevol",
+      "summary": "digital genetics model to run Evolution Experiments in silico",
+      "description": "digital genetics model to run Evolution Experiments in silico",
+      "app_id": "aevol",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aevol",
+        "remove": "pkexec apt remove -y aevol"
+      }
+    },
+    {
+      "name": "afdko",
+      "summary": "Adobe Font Development Kit for OpenType",
+      "description": "Adobe Font Development Kit for OpenType",
+      "app_id": "afdko",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y afdko",
+        "remove": "pkexec apt remove -y afdko"
+      }
+    },
+    {
+      "name": "afdko-bin",
+      "summary": "Adobe Font Development Kit for OpenType (Binaries)",
+      "description": "Adobe Font Development Kit for OpenType (Binaries)",
+      "app_id": "afdko-bin",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y afdko-bin",
+        "remove": "pkexec apt remove -y afdko-bin"
+      }
+    },
+    {
+      "name": "afdko-doc",
+      "summary": "Adobe Font Development Kit for OpenType (common documentation)",
+      "description": "Adobe Font Development Kit for OpenType (common documentation)",
+      "app_id": "afdko-doc",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y afdko-doc",
+        "remove": "pkexec apt remove -y afdko-doc"
+      }
+    },
+    {
+      "name": "afflib-tools",
+      "summary": "Advanced Forensics Format Library (utilities)",
+      "description": "Advanced Forensics Format Library (utilities)",
+      "app_id": "afflib-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y afflib-tools",
+        "remove": "pkexec apt remove -y afflib-tools"
+      }
+    },
+    {
+      "name": "aidl",
+      "summary": "Binder generator of AIDL interfaces",
+      "description": "Binder generator of AIDL interfaces",
+      "app_id": "aidl",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aidl",
+        "remove": "pkexec apt remove -y aidl"
+      }
+    },
+    {
+      "name": "aircrack-ng",
+      "summary": "wireless WEP/WPA cracking utilities",
+      "description": "wireless WEP/WPA cracking utilities",
+      "app_id": "aircrack-ng",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "security"
+      ],
+      "icon": "aircrack",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aircrack-ng",
+        "remove": "pkexec apt remove -y aircrack-ng"
+      }
+    },
+    {
+      "name": "airgeddon",
+      "summary": "multi-use bash script for Linux systems to audit wireless networks",
+      "description": "multi-use bash script for Linux systems to audit wireless networks",
+      "app_id": "airgeddon",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y airgeddon",
+        "remove": "pkexec apt remove -y airgeddon"
+      }
+    },
+    {
+      "name": "aladin",
+      "summary": "Interactive sky atlas for astronomical images and datasets",
+      "description": "Interactive sky atlas for astronomical images and datasets",
+      "app_id": "aladin",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aladin",
+        "remove": "pkexec apt remove -y aladin"
+      }
+    },
+    {
+      "name": "alembic-graphics",
+      "summary": "Alembic is an open computer graphics interchange framework",
+      "description": "Alembic is an open computer graphics interchange framework",
+      "app_id": "alembic-graphics",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alembic-graphics",
+        "remove": "pkexec apt remove -y alembic-graphics"
+      }
+    },
+    {
+      "name": "alsa-tools",
+      "summary": "Console based ALSA utilities for specific hardware",
+      "description": "Console based ALSA utilities for specific hardware",
+      "app_id": "alsa-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alsa-tools",
+        "remove": "pkexec apt remove -y alsa-tools"
+      }
+    },
+    {
+      "name": "alsa-tools-gui",
+      "summary": "GUI based ALSA utilities for specific hardware",
+      "description": "GUI based ALSA utilities for specific hardware",
+      "app_id": "alsa-tools-gui",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alsa-tools-gui",
+        "remove": "pkexec apt remove -y alsa-tools-gui"
+      }
+    },
+    {
+      "name": "alsa-utils",
+      "summary": "Utilities for configuring and using ALSA",
+      "description": "Utilities for configuring and using ALSA",
+      "app_id": "alsa-utils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y alsa-utils",
+        "remove": "pkexec apt remove -y alsa-utils"
+      }
+    },
+    {
+      "name": "amd-debug-tools",
+      "summary": "Debug tools for AMD Zen systems",
+      "description": "Debug tools for AMD Zen systems",
+      "app_id": "amd-debug-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amd-debug-tools",
+        "remove": "pkexec apt remove -y amd-debug-tools"
+      }
+    },
+    {
+      "name": "amdgcn-tools-19",
+      "summary": "linker tools for the amdgcn architecture",
+      "description": "linker tools for the amdgcn architecture",
+      "app_id": "amdgcn-tools-19",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amdgcn-tools-19",
+        "remove": "pkexec apt remove -y amdgcn-tools-19"
+      }
+    },
+    {
+      "name": "amdgcn-tools-21",
+      "summary": "linker tools for the amdgcn architecture",
+      "description": "linker tools for the amdgcn architecture",
+      "app_id": "amdgcn-tools-21",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amdgcn-tools-21",
+        "remove": "pkexec apt remove -y amdgcn-tools-21"
+      }
+    },
+    {
+      "name": "amqp-tools",
+      "summary": "Command-line utilities for interacting with AMQP servers",
+      "description": "Command-line utilities for interacting with AMQP servers",
+      "app_id": "amqp-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amqp-tools",
+        "remove": "pkexec apt remove -y amqp-tools"
+      }
+    },
+    {
+      "name": "amtterm",
+      "summary": "Serial-over-lan (sol) client for Intel AMT, console version",
+      "description": "Serial-over-lan (sol) client for Intel AMT, console version",
+      "app_id": "amtterm",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y amtterm",
+        "remove": "pkexec apt remove -y amtterm"
+      }
+    },
+    {
+      "name": "analizo",
+      "summary": "multi-language source code analysis toolkit",
+      "description": "multi-language source code analysis toolkit",
+      "app_id": "analizo",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y analizo",
+        "remove": "pkexec apt remove -y analizo"
+      }
+    },
+    {
+      "name": "android-libandroidfw",
+      "summary": "Android utility library",
+      "description": "Android utility library",
+      "app_id": "android-libandroidfw",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libandroidfw",
+        "remove": "pkexec apt remove -y android-libandroidfw"
+      }
+    },
+    {
+      "name": "android-libandroidfw-dev",
+      "summary": "Android utility library - Development files",
+      "description": "Android utility library - Development files",
+      "app_id": "android-libandroidfw-dev",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libandroidfw-dev",
+        "remove": "pkexec apt remove -y android-libandroidfw-dev"
+      }
+    },
+    {
+      "name": "android-libcutils",
+      "summary": "Android utils library for C",
+      "description": "Android utils library for C",
+      "app_id": "android-libcutils",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libcutils",
+        "remove": "pkexec apt remove -y android-libcutils"
+      }
+    },
+    {
+      "name": "android-libcutils-dev",
+      "summary": "Android utils library for C - Development files",
+      "description": "Android utils library for C - Development files",
+      "app_id": "android-libcutils-dev",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-libcutils-dev",
+        "remove": "pkexec apt remove -y android-libcutils-dev"
+      }
+    },
+    {
+      "name": "android-logtags-tools",
+      "summary": "Tools from AOSP that process event-log-tags files",
+      "description": "Tools from AOSP that process event-log-tags files",
+      "app_id": "android-logtags-tools",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-logtags-tools",
+        "remove": "pkexec apt remove -y android-logtags-tools"
+      }
+    },
+    {
+      "name": "android-platform-tools-base",
+      "summary": "base tools for developing applications for the Android system",
+      "description": "base tools for developing applications for the Android system",
+      "app_id": "android-platform-tools-base",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-platform-tools-base",
+        "remove": "pkexec apt remove -y android-platform-tools-base"
+      }
+    },
+    {
+      "name": "android-sdk",
+      "summary": "Software development kit for Android platform",
+      "description": "Software development kit for Android platform",
+      "app_id": "android-sdk",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y android-sdk",
+        "remove": "pkexec apt remove -y android-sdk"
+      }
+    },
+    {
+      "name": "Vulkan/OpenGL capture tools to use with the OBS VkCapture plugin",
+      "summary": "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
+      "description": "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
+      "app_id": "OBS VkCapture tools",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "media"
+      ],
+      "icon": "obs",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub OBS VkCapture tools",
+        "remove": "flatpak uninstall -y OBS VkCapture tools"
+      }
+    },
+    {
+      "name": "Contains SFML2, SFML3, wxWidgets3.2, Raylib5, GLFW3.4, GLUT3.6 andFLTK1.",
+      "summary": "org.codeblocks.codeblocks.Plugin.devtools",
+      "description": "org.codeblocks.codeblocks.Plugin.devtools",
+      "app_id": "DevTools",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub DevTools",
+        "remove": "flatpak uninstall -y DevTools"
+      }
+    },
+    {
+      "name": "Create and share concept maps",
+      "summary": "us.ihmc.cmap.CmapTools",
+      "description": "us.ihmc.cmap.CmapTools",
+      "app_id": "CmapTools",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub CmapTools",
+        "remove": "flatpak uninstall -y CmapTools"
+      }
+    },
+    {
+      "name": "Applications to configure Roccat devices.",
+      "summary": "net.sourceforge.roccat.roccat-tools",
+      "description": "net.sourceforge.roccat.roccat-tools",
+      "app_id": "Roccat-tools",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Roccat-tools",
+        "remove": "flatpak uninstall -y Roccat-tools"
+      }
+    },
+    {
+      "name": "Quality Control Tools for Video Preservation",
+      "summary": "net.mediaarea.QCTools",
+      "description": "net.mediaarea.QCTools",
+      "app_id": "QCTools",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub QCTools",
+        "remove": "flatpak uninstall -y QCTools"
+      }
+    },
+    {
+      "name": "Une belle application de prise de notes markdown",
+      "summary": "com.toolstack.Folio",
+      "description": "com.toolstack.Folio",
+      "app_id": "Folio",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Folio",
+        "remove": "flatpak uninstall -y Folio"
+      }
+    },
+    {
+      "name": "Manage and optimize PDF files",
+      "summary": "br.eng.silas.qpdftools",
+      "description": "br.eng.silas.qpdftools",
+      "app_id": "Qpdf Tools",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Qpdf Tools",
+        "remove": "flatpak uninstall -y Qpdf Tools"
+      }
+    },
+    {
+      "name": "QT based, cross-platform YUV player with an advanced analytic toolset",
+      "summary": "de.rwth_aachen.ient.YUView",
+      "description": "de.rwth_aachen.ient.YUView",
+      "app_id": "YUView",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub YUView",
+        "remove": "flatpak uninstall -y YUView"
+      }
+    },
+    {
+      "name": "Document Processor",
+      "summary": "org.lyx.LyX",
+      "description": "org.lyx.LyX",
+      "app_id": "LyX",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub LyX",
+        "remove": "flatpak uninstall -y LyX"
+      }
+    },
+    {
+      "name": "A customisable music player",
+      "summary": "org.fooyin.fooyin",
+      "description": "org.fooyin.fooyin",
+      "app_id": "fooyin",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub fooyin",
+        "remove": "flatpak uninstall -y fooyin"
+      }
+    },
+    {
+      "name": "Universal node-based 2D editor",
+      "summary": "net.pixieditor.PixiEditor",
+      "description": "net.pixieditor.PixiEditor",
+      "app_id": "PixiEditor",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub PixiEditor",
+        "remove": "flatpak uninstall -y PixiEditor"
+      }
+    },
+    {
+      "name": "UI Designer for Qml applications",
+      "summary": "io.qt.qtdesignstudio",
+      "description": "io.qt.qtdesignstudio",
+      "app_id": "Qt Design Studio",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Qt Design Studio",
+        "remove": "flatpak uninstall -y Qt Design Studio"
+      }
+    },
+    {
+      "name": "Digital Audio Workstation",
+      "summary": "fm.reaper.Reaper",
+      "description": "fm.reaper.Reaper",
+      "app_id": "Reaper",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "dev"
+      ],
+      "icon": "git",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Reaper",
+        "remove": "flatpak uninstall -y Reaper"
+      }
+    },
+    {
+      "name": "Blender but with a UX for artists",
+      "summary": "de.bforartists.Bforartists",
+      "description": "de.bforartists.Bforartists",
+      "app_id": "Bforartists",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "graphics"
+      ],
+      "icon": "blender",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Bforartists",
+        "remove": "flatpak uninstall -y Bforartists"
+      }
+    },
+    {
+      "name": "ThinkOrSwim Desktop application",
+      "summary": "com.tdameritrade.ThinkOrSwim",
+      "description": "com.tdameritrade.ThinkOrSwim",
+      "app_id": "ThinkOrSwim",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub ThinkOrSwim",
+        "remove": "flatpak uninstall -y ThinkOrSwim"
+      }
+    },
+    {
+      "name": "Visual web editor for professionals",
+      "summary": "com.pinegrow.Pinegrow",
+      "description": "com.pinegrow.Pinegrow",
+      "app_id": "Pinegrow",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Pinegrow",
+        "remove": "flatpak uninstall -y Pinegrow"
+      }
+    },
+    {
+      "name": "Xilinx Design Suite for hardware development",
+      "summary": "com.github.corna.Vivado",
+      "description": "com.github.corna.Vivado",
+      "app_id": "Xilinx Vivado Design Suite",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Xilinx Vivado Design Suite",
+        "remove": "flatpak uninstall -y Xilinx Vivado Design Suite"
+      }
+    }
+  ],
+  "search:__cat_tools__": [
+    {
+      "name": "0install",
+      "summary": "cross-distribution packaging system",
+      "description": "cross-distribution packaging system",
+      "app_id": "0install",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0install",
+        "remove": "pkexec apt remove -y 0install"
+      }
+    },
+    {
+      "name": "0install-core",
+      "summary": "cross-distribution packaging system (non-GUI parts)",
+      "description": "cross-distribution packaging system (non-GUI parts)",
+      "app_id": "0install-core",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0install-core",
+        "remove": "pkexec apt remove -y 0install-core"
+      }
+    },
+    {
+      "name": "0trace",
+      "summary": "traceroute tool that can run within an existing TCP connection",
+      "description": "traceroute tool that can run within an existing TCP connection",
+      "app_id": "0trace",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0trace",
+        "remove": "pkexec apt remove -y 0trace"
+      }
+    },
+    {
+      "name": "0trace-dbgsym",
+      "summary": "debug symbols for 0trace",
+      "description": "debug symbols for 0trace",
+      "app_id": "0trace-dbgsym",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0trace-dbgsym",
+        "remove": "pkexec apt remove -y 0trace-dbgsym"
+      }
+    },
+    {
+      "name": "0xffff",
+      "summary": "Open Free Fiasco Firmware Flasher",
+      "description": "Open Free Fiasco Firmware Flasher",
+      "app_id": "0xffff",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 0xffff",
+        "remove": "pkexec apt remove -y 0xffff"
+      }
+    },
+    {
+      "name": "2048",
+      "summary": "Slide and add puzzle game for text mode",
+      "description": "Slide and add puzzle game for text mode",
+      "app_id": "2048",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2048",
+        "remove": "pkexec apt remove -y 2048"
+      }
+    },
+    {
+      "name": "2048-qt",
+      "summary": "mathematics based puzzle game",
+      "description": "mathematics based puzzle game",
+      "app_id": "2048-qt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2048-qt",
+        "remove": "pkexec apt remove -y 2048-qt"
+      }
+    },
+    {
+      "name": "2ping",
+      "summary": "Ping utility to determine directional packet loss",
+      "description": "Ping utility to determine directional packet loss",
+      "app_id": "2ping",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2ping",
+        "remove": "pkexec apt remove -y 2ping"
+      }
+    },
+    {
+      "name": "2vcard",
+      "summary": "convert an addressbook to VCARD file format",
+      "description": "convert an addressbook to VCARD file format",
+      "app_id": "2vcard",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 2vcard",
+        "remove": "pkexec apt remove -y 2vcard"
+      }
+    },
+    {
+      "name": "3270-common",
+      "summary": "Common files for IBM 3270 emulators and pr3287",
+      "description": "Common files for IBM 3270 emulators and pr3287",
+      "app_id": "3270-common",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3270-common",
+        "remove": "pkexec apt remove -y 3270-common"
+      }
+    },
+    {
+      "name": "3cpio",
+      "summary": "Manage initrd cpio archives",
+      "description": "Manage initrd cpio archives",
+      "app_id": "3cpio",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3cpio",
+        "remove": "pkexec apt remove -y 3cpio"
+      }
+    },
+    {
+      "name": "3d-ascii-viewer",
+      "summary": "Viewer of 3D models in ASCII",
+      "description": "Viewer of 3D models in ASCII",
+      "app_id": "3d-ascii-viewer",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3d-ascii-viewer",
+        "remove": "pkexec apt remove -y 3d-ascii-viewer"
+      }
+    },
+    {
+      "name": "3dchess",
+      "summary": "Play chess across 3 boards!",
+      "description": "Play chess across 3 boards!",
+      "app_id": "3dchess",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3dchess",
+        "remove": "pkexec apt remove -y 3dchess"
+      }
+    },
+    {
+      "name": "3depict",
+      "summary": "visualisation and analysis for single valued point data",
+      "description": "visualisation and analysis for single valued point data",
+      "app_id": "3depict",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 3depict",
+        "remove": "pkexec apt remove -y 3depict"
+      }
+    },
+    {
+      "name": "4g8",
+      "summary": "Packet Capture and Interception for Switched Networks",
+      "description": "Packet Capture and Interception for Switched Networks",
+      "app_id": "4g8",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4g8",
+        "remove": "pkexec apt remove -y 4g8"
+      }
+    },
+    {
+      "name": "4pane",
+      "summary": "four-pane detailed-list file manager",
+      "description": "four-pane detailed-list file manager",
+      "app_id": "4pane",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4pane",
+        "remove": "pkexec apt remove -y 4pane"
+      }
+    },
+    {
+      "name": "4ti2",
+      "summary": "mathematical tool suite for problems on linear spaces -- tools",
+      "description": "mathematical tool suite for problems on linear spaces -- tools",
+      "app_id": "4ti2",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4ti2",
+        "remove": "pkexec apt remove -y 4ti2"
+      }
+    },
+    {
+      "name": "4ti2-doc",
+      "summary": "mathematical tool suite for problems on linear spaces -- user guide",
+      "description": "mathematical tool suite for problems on linear spaces -- user guide",
+      "app_id": "4ti2-doc",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 4ti2-doc",
+        "remove": "pkexec apt remove -y 4ti2-doc"
+      }
+    },
+    {
+      "name": "64tass",
+      "summary": "cross (turbo) assembler targeting the MOS 65xx series of micro processors",
+      "description": "cross (turbo) assembler targeting the MOS 65xx series of micro processors",
+      "app_id": "64tass",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 64tass",
+        "remove": "pkexec apt remove -y 64tass"
+      }
+    },
+    {
+      "name": "6tunnel",
+      "summary": "TCP proxy for non-IPv6 applications",
+      "description": "TCP proxy for non-IPv6 applications",
+      "app_id": "6tunnel",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 6tunnel",
+        "remove": "pkexec apt remove -y 6tunnel"
+      }
+    },
+    {
+      "name": "7kaa",
+      "summary": "Seven Kingdoms: Ancient Adversaries - real-time strategy game",
+      "description": "Seven Kingdoms: Ancient Adversaries - real-time strategy game",
+      "app_id": "7kaa",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 7kaa",
+        "remove": "pkexec apt remove -y 7kaa"
+      }
+    },
+    {
+      "name": "7kaa-data",
+      "summary": "Seven Kingdoms: Ancient Adversaries - game data",
+      "description": "Seven Kingdoms: Ancient Adversaries - game data",
+      "app_id": "7kaa-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 7kaa-data",
+        "remove": "pkexec apt remove -y 7kaa-data"
+      }
+    },
+    {
+      "name": "7zip",
+      "summary": "7-Zip file archiver with a high compression ratio",
+      "description": "7-Zip file archiver with a high compression ratio",
+      "app_id": "7zip",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 7zip",
+        "remove": "pkexec apt remove -y 7zip"
+      }
+    },
+    {
+      "name": "7zip-standalone",
+      "summary": "7-Zip file archiver with a high compression ratio (standalone)",
+      "description": "7-Zip file archiver with a high compression ratio (standalone)",
+      "app_id": "7zip-standalone",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 7zip-standalone",
+        "remove": "pkexec apt remove -y 7zip-standalone"
+      }
+    },
+    {
+      "name": "81voltd",
+      "summary": "Service managing VoLTE calls on Qualcomm modem",
+      "description": "Service managing VoLTE calls on Qualcomm modem",
+      "app_id": "81voltd",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 81voltd",
+        "remove": "pkexec apt remove -y 81voltd"
+      }
+    },
+    {
+      "name": "9base",
+      "summary": "Plan 9 userland tools",
+      "description": "Plan 9 userland tools",
+      "app_id": "9base",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 9base",
+        "remove": "pkexec apt remove -y 9base"
+      }
+    },
+    {
+      "name": "9menu",
+      "summary": "Creates X menus from the shell",
+      "description": "Creates X menus from the shell",
+      "app_id": "9menu",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 9menu",
+        "remove": "pkexec apt remove -y 9menu"
+      }
+    },
+    {
+      "name": "9mount",
+      "summary": "Plan 9 filesystem (v9fs) user mount utilities",
+      "description": "Plan 9 filesystem (v9fs) user mount utilities",
+      "app_id": "9mount",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 9mount",
+        "remove": "pkexec apt remove -y 9mount"
+      }
+    },
+    {
+      "name": "9wm",
+      "summary": "X11 window manager inspired by Plan 9's rio",
+      "description": "X11 window manager inspired by Plan 9's rio",
+      "app_id": "9wm",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y 9wm",
+        "remove": "pkexec apt remove -y 9wm"
+      }
+    },
+    {
+      "name": "a2boot",
+      "summary": "AppleTalk Network Suite (Apple II NetBoot)",
+      "description": "AppleTalk Network Suite (Apple II NetBoot)",
+      "app_id": "a2boot",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a2boot",
+        "remove": "pkexec apt remove -y a2boot"
+      }
+    },
+    {
+      "name": "a2d",
+      "summary": "APRS to DAPNET portal",
+      "description": "APRS to DAPNET portal",
+      "app_id": "a2d",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a2d",
+        "remove": "pkexec apt remove -y a2d"
+      }
+    },
+    {
+      "name": "a2d-doc",
+      "summary": "Documentation for a2d",
+      "description": "Documentation for a2d",
+      "app_id": "a2d-doc",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a2d-doc",
+        "remove": "pkexec apt remove -y a2d-doc"
+      }
+    },
+    {
+      "name": "a2jmidid",
+      "summary": "Daemon for exposing legacy ALSA MIDI in JACK MIDI systems",
+      "description": "Daemon for exposing legacy ALSA MIDI in JACK MIDI systems",
+      "app_id": "a2jmidid",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a2jmidid",
+        "remove": "pkexec apt remove -y a2jmidid"
+      }
+    },
+    {
+      "name": "a2ps",
+      "summary": "GNU a2ps - 'Anything to PostScript' converter and pretty-printer",
+      "description": "GNU a2ps - 'Anything to PostScript' converter and pretty-printer",
+      "app_id": "a2ps",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a2ps",
+        "remove": "pkexec apt remove -y a2ps"
+      }
+    },
+    {
+      "name": "a56",
+      "summary": "Motorola DSP56001 assembler",
+      "description": "Motorola DSP56001 assembler",
+      "app_id": "a56",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a56",
+        "remove": "pkexec apt remove -y a56"
+      }
+    },
+    {
+      "name": "a7xpg",
+      "summary": "chase action game",
+      "description": "chase action game",
+      "app_id": "a7xpg",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a7xpg",
+        "remove": "pkexec apt remove -y a7xpg"
+      }
+    },
+    {
+      "name": "a7xpg-data",
+      "summary": "chase action game - game data",
+      "description": "chase action game - game data",
+      "app_id": "a7xpg-data",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y a7xpg-data",
+        "remove": "pkexec apt remove -y a7xpg-data"
+      }
+    },
+    {
+      "name": "aa3d",
+      "summary": "ASCII art stereogram generator",
+      "description": "ASCII art stereogram generator",
+      "app_id": "aa3d",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aa3d",
+        "remove": "pkexec apt remove -y aa3d"
+      }
+    },
+    {
+      "name": "aaphoto",
+      "summary": "Auto Adjust Photo, automatic color correction of photos",
+      "description": "Auto Adjust Photo, automatic color correction of photos",
+      "app_id": "aaphoto",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aaphoto",
+        "remove": "pkexec apt remove -y aaphoto"
+      }
+    },
+    {
+      "name": "aapt",
+      "summary": "Android Asset Packaging Tool",
+      "description": "Android Asset Packaging Tool",
+      "app_id": "aapt",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aapt",
+        "remove": "pkexec apt remove -y aapt"
+      }
+    },
+    {
+      "name": "aardvark-dns",
+      "summary": "Container-focused DNS server",
+      "description": "Container-focused DNS server",
+      "app_id": "aardvark-dns",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aardvark-dns",
+        "remove": "pkexec apt remove -y aardvark-dns"
+      }
+    },
+    {
+      "name": "aasvg",
+      "summary": "Convert ASCII art diagrams into SVG",
+      "description": "Convert ASCII art diagrams into SVG",
+      "app_id": "aasvg",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y aasvg",
+        "remove": "pkexec apt remove -y aasvg"
+      }
+    },
+    {
+      "name": "abacas",
+      "summary": "close gaps in genomic alignments from short reads",
+      "description": "close gaps in genomic alignments from short reads",
+      "app_id": "abacas",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abacas",
+        "remove": "pkexec apt remove -y abacas"
+      }
+    },
+    {
+      "name": "abacas-examples",
+      "summary": "sample data for abacas to close gaps in genomic alignments",
+      "description": "sample data for abacas to close gaps in genomic alignments",
+      "app_id": "abacas-examples",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abacas-examples",
+        "remove": "pkexec apt remove -y abacas-examples"
+      }
+    },
+    {
+      "name": "abbtr",
+      "summary": "Abbreviator for long commands in the terminal",
+      "description": "Abbreviator for long commands in the terminal",
+      "app_id": "abbtr",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abbtr",
+        "remove": "pkexec apt remove -y abbtr"
+      }
+    },
+    {
+      "name": "abcde",
+      "summary": "A Better CD Encoder",
+      "description": "A Better CD Encoder",
+      "app_id": "abcde",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abcde",
+        "remove": "pkexec apt remove -y abcde"
+      }
+    },
+    {
+      "name": "abcl",
+      "summary": "Common Lisp implementation in the Java Virtual Machine",
+      "description": "Common Lisp implementation in the Java Virtual Machine",
+      "app_id": "abcl",
+      "sources": [
+        "apt"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "pkexec apt install -y abcl",
+        "remove": "pkexec apt remove -y abcl"
+      }
+    },
+    {
+      "name": "ai.jan.Jan",
+      "summary": "0.7.9",
+      "description": "0.7.9",
+      "app_id": "Jan",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Jan",
+        "remove": "flatpak uninstall -y Jan"
+      }
+    },
+    {
+      "name": "app.authpass.AuthPass",
+      "summary": "1.9.6_1904",
+      "description": "1.9.6_1904",
+      "app_id": "AuthPass",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub AuthPass",
+        "remove": "flatpak uninstall -y AuthPass"
+      }
+    },
+    {
+      "name": "app.bbsync.BlackboardSync",
+      "summary": "0.18.0",
+      "description": "0.18.0",
+      "app_id": "Blackboard Sync",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Blackboard Sync",
+        "remove": "flatpak uninstall -y Blackboard Sync"
+      }
+    },
+    {
+      "name": "app.bluebubbles.BlueBubbles",
+      "summary": "1.15.7.0",
+      "description": "1.15.7.0",
+      "app_id": "BlueBubbles",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub BlueBubbles",
+        "remove": "flatpak uninstall -y BlueBubbles"
+      }
+    },
+    {
+      "name": "app.cantara.Cantara",
+      "summary": "2.7.1",
+      "description": "2.7.1",
+      "app_id": "Cantara",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Cantara",
+        "remove": "flatpak uninstall -y Cantara"
+      }
+    },
+    {
+      "name": "app.comaps.comaps",
+      "summary": "2026.04.07",
+      "description": "2026.04.07",
+      "app_id": "CoMaps",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub CoMaps",
+        "remove": "flatpak uninstall -y CoMaps"
+      }
+    },
+    {
+      "name": "app.curocalc.calculator",
+      "summary": "2.6.2",
+      "description": "2.6.2",
+      "app_id": "Curo Calculator",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Curo Calculator",
+        "remove": "flatpak uninstall -y Curo Calculator"
+      }
+    },
+    {
+      "name": "app.devsuite.Ptyxis",
+      "summary": "49.3",
+      "description": "49.3",
+      "app_id": "Ptyxis",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Ptyxis",
+        "remove": "flatpak uninstall -y Ptyxis"
+      }
+    },
+    {
+      "name": "app.devsuite.Schemes",
+      "summary": "46.0",
+      "description": "46.0",
+      "app_id": "Schemes",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Schemes",
+        "remove": "flatpak uninstall -y Schemes"
+      }
+    },
+    {
+      "name": "app.drey.Biblioteca",
+      "summary": "1.7",
+      "description": "1.7",
+      "app_id": "Biblioteca",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Biblioteca",
+        "remove": "flatpak uninstall -y Biblioteca"
+      }
+    },
+    {
+      "name": "app.drey.Blurble",
+      "summary": "0.4.0",
+      "description": "0.4.0",
+      "app_id": "Blurble",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Blurble",
+        "remove": "flatpak uninstall -y Blurble"
+      }
+    },
+    {
+      "name": "app.drey.Damask",
+      "summary": "0.3.2",
+      "description": "0.3.2",
+      "app_id": "Damask",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Damask",
+        "remove": "flatpak uninstall -y Damask"
+      }
+    },
+    {
+      "name": "app.drey.EarTag",
+      "summary": "1.0.2",
+      "description": "1.0.2",
+      "app_id": "Ear Tag",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Ear Tag",
+        "remove": "flatpak uninstall -y Ear Tag"
+      }
+    },
+    {
+      "name": "app.drey.Elastic",
+      "summary": "1.0.2",
+      "description": "1.0.2",
+      "app_id": "Elastic",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Elastic",
+        "remove": "flatpak uninstall -y Elastic"
+      }
+    },
+    {
+      "name": "app.drey.KeyRack",
+      "summary": "0.4.0",
+      "description": "0.4.0",
+      "app_id": "Key Rack",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Key Rack",
+        "remove": "flatpak uninstall -y Key Rack"
+      }
+    },
+    {
+      "name": "app.drey.MultiplicationPuzzle",
+      "summary": "16.0",
+      "description": "16.0",
+      "app_id": "Puzzle de multiplications",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Puzzle de multiplications",
+        "remove": "flatpak uninstall -y Puzzle de multiplications"
+      }
+    },
+    {
+      "name": "app.drey.Warp",
+      "summary": "1.0.0",
+      "description": "1.0.0",
+      "app_id": "Warp",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Warp",
+        "remove": "flatpak uninstall -y Warp"
+      }
+    },
+    {
+      "name": "app.eduroam.geteduroam",
+      "summary": "0.14",
+      "description": "0.14",
+      "app_id": "geteduroam",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub geteduroam",
+        "remove": "flatpak uninstall -y geteduroam"
+      }
+    },
+    {
+      "name": "app.feeddeck.feeddeck",
+      "summary": "v1.4.1",
+      "description": "v1.4.1",
+      "app_id": "FeedDeck",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub FeedDeck",
+        "remove": "flatpak uninstall -y FeedDeck"
+      }
+    },
+    {
+      "name": "app.fluxer.Fluxer",
+      "summary": "0.0.8",
+      "description": "0.0.8",
+      "app_id": "Fluxer",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Fluxer",
+        "remove": "flatpak uninstall -y Fluxer"
+      }
+    },
+    {
+      "name": "app.fotema.Fotema",
+      "summary": "2.4.2",
+      "description": "2.4.2",
+      "app_id": "Fotema",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Fotema",
+        "remove": "flatpak uninstall -y Fotema"
+      }
+    },
+    {
+      "name": "app.freelens.Freelens",
+      "summary": "1.8.1",
+      "description": "1.8.1",
+      "app_id": "Freelens",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Freelens",
+        "remove": "flatpak uninstall -y Freelens"
+      }
+    },
+    {
+      "name": "app.getclipboard.Clipboard",
+      "summary": "0.9.1",
+      "description": "0.9.1",
+      "app_id": "Clipboard",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Clipboard",
+        "remove": "flatpak uninstall -y Clipboard"
+      }
+    },
+    {
+      "name": "app.getspace.Space",
+      "summary": "5.0.14",
+      "description": "5.0.14",
+      "app_id": "Space",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Space",
+        "remove": "flatpak uninstall -y Space"
+      }
+    },
+    {
+      "name": "app.go2tv.go2tv",
+      "summary": "2.2.0",
+      "description": "2.2.0",
+      "app_id": "Go2TV",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Go2TV",
+        "remove": "flatpak uninstall -y Go2TV"
+      }
+    },
+    {
+      "name": "app.grayjay.Grayjay",
+      "summary": "17",
+      "description": "17",
+      "app_id": "Grayjay",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Grayjay",
+        "remove": "flatpak uninstall -y Grayjay"
+      }
+    },
+    {
+      "name": "app.gummi.gummi",
+      "summary": "0.8.3",
+      "description": "0.8.3",
+      "app_id": "Gummi",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Gummi",
+        "remove": "flatpak uninstall -y Gummi"
+      }
+    },
+    {
+      "name": "app.katvan.Katvan",
+      "summary": "0.12.0",
+      "description": "0.12.0",
+      "app_id": "Katvan",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Katvan",
+        "remove": "flatpak uninstall -y Katvan"
+      }
+    },
+    {
+      "name": "app.kreya.Kreya",
+      "summary": "1.19.1",
+      "description": "1.19.1",
+      "app_id": "Kreya",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Kreya",
+        "remove": "flatpak uninstall -y Kreya"
+      }
+    },
+    {
+      "name": "app.lith.Lith",
+      "summary": "v1.6.18",
+      "description": "v1.6.18",
+      "app_id": "Lith",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Lith",
+        "remove": "flatpak uninstall -y Lith"
+      }
+    },
+    {
+      "name": "app.logorrr.LogoRRR",
+      "summary": "26.2.0",
+      "description": "26.2.0",
+      "app_id": "LogoRRR",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub LogoRRR",
+        "remove": "flatpak uninstall -y LogoRRR"
+      }
+    },
+    {
+      "name": "app.moosync.moosync",
+      "summary": "11.0.2",
+      "description": "11.0.2",
+      "app_id": "Moosync",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Moosync",
+        "remove": "flatpak uninstall -y Moosync"
+      }
+    },
+    {
+      "name": "app.nestful.Nestful",
+      "summary": "1.4.1",
+      "description": "1.4.1",
+      "app_id": "Nestful",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Nestful",
+        "remove": "flatpak uninstall -y Nestful"
+      }
+    },
+    {
+      "name": "app.openbubbles.OpenBubbles",
+      "summary": "1.15.0.0",
+      "description": "1.15.0.0",
+      "app_id": "OpenBubbles",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub OpenBubbles",
+        "remove": "flatpak uninstall -y OpenBubbles"
+      }
+    },
+    {
+      "name": "app.opencomic.OpenComic",
+      "summary": "1.6.5",
+      "description": "1.6.5",
+      "app_id": "OpenComic",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub OpenComic",
+        "remove": "flatpak uninstall -y OpenComic"
+      }
+    },
+    {
+      "name": "app.organicmaps.desktop",
+      "summary": "2026.01.16-8",
+      "description": "2026.01.16-8",
+      "app_id": "Organic Maps",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Organic Maps",
+        "remove": "flatpak uninstall -y Organic Maps"
+      }
+    },
+    {
+      "name": "app.pianocheetah.pianocheetah",
+      "summary": "2025.05b",
+      "description": "2025.05b",
+      "app_id": "PianoCheetah",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub PianoCheetah",
+        "remove": "flatpak uninstall -y PianoCheetah"
+      }
+    },
+    {
+      "name": "app.polychromatic.controller",
+      "summary": "0.9.6",
+      "description": "0.9.6",
+      "app_id": "Polychromatic",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Polychromatic",
+        "remove": "flatpak uninstall -y Polychromatic"
+      }
+    },
+    {
+      "name": "app.rednotebook.RedNotebook",
+      "summary": "2.34",
+      "description": "2.34",
+      "app_id": "RedNotebook",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub RedNotebook",
+        "remove": "flatpak uninstall -y RedNotebook"
+      }
+    },
+    {
+      "name": "app.tintero.Tintero",
+      "summary": "0.9.5",
+      "description": "0.9.5",
+      "app_id": "Tintero",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Tintero",
+        "remove": "flatpak uninstall -y Tintero"
+      }
+    },
+    {
+      "name": "app.towdow.TowDow",
+      "summary": "0.0.0",
+      "description": "0.0.0",
+      "app_id": "TowDow",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub TowDow",
+        "remove": "flatpak uninstall -y TowDow"
+      }
+    },
+    {
+      "name": "app.twintaillauncher.ttl",
+      "summary": "2.0.0",
+      "description": "2.0.0",
+      "app_id": "Twintail Launcher",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Twintail Launcher",
+        "remove": "flatpak uninstall -y Twintail Launcher"
+      }
+    },
+    {
+      "name": "app.xemu.xemu",
+      "summary": "0.8.134",
+      "description": "0.8.134",
+      "app_id": "xemu",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub xemu",
+        "remove": "flatpak uninstall -y xemu"
+      }
+    },
+    {
+      "name": "app.xmcl.voxelum",
+      "summary": "v0.54.4",
+      "description": "v0.54.4",
+      "app_id": "X Minecraft Launcher",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub X Minecraft Launcher",
+        "remove": "flatpak uninstall -y X Minecraft Launcher"
+      }
+    },
+    {
+      "name": "app.ytmdesktop.ytmdesktop",
+      "summary": "v2.0.11",
+      "description": "v2.0.11",
+      "app_id": "YTMDesktop",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub YTMDesktop",
+        "remove": "flatpak uninstall -y YTMDesktop"
+      }
+    },
+    {
+      "name": "app.ywallet.Ywallet",
+      "summary": "1.5.4",
+      "description": "1.5.4",
+      "app_id": "Ywallet",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Ywallet",
+        "remove": "flatpak uninstall -y Ywallet"
+      }
+    },
+    {
+      "name": "app.zen_browser.zen",
+      "summary": "1.19.8b",
+      "description": "1.19.8b",
+      "app_id": "Zen",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Zen",
+        "remove": "flatpak uninstall -y Zen"
+      }
+    },
+    {
+      "name": "ar.com.pilas_engine.App",
+      "summary": "2.8.18",
+      "description": "2.8.18",
+      "app_id": "Pilas Engine",
+      "sources": [
+        "flatpak"
+      ],
+      "categories": [
+        "tools"
+      ],
+      "icon": "",
+      "installed": false,
+      "version": "",
+      "actions": {
+        "install": "flatpak install -y flathub Pilas Engine",
+        "remove": "flatpak uninstall -y Pilas Engine"
+      }
+    }
+  ]
+}
